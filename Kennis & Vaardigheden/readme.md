@@ -29,4 +29,8 @@ W2: Komt terug met projectplan, en planning. Bewezen in vorige opdrachten.
 
 W3: Bewezen in laatste paar projecten, werken in sprints. Project moet functioneel en werkend zijn.
 
-W4: 
+W4: Uiteindelijk design is klaar, en je bent bereid om het ontwerp erin te verwerken. 
+
+### K2
+
+W1: 
