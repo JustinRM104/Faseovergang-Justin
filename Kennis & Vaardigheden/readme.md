@@ -19,3 +19,11 @@ Ik heb eigenlijk nergens echt specifiek moeite mee, al is mijn zwakste vak dat t
 
 Bijbehorende bewijzen zijn te zien in de bewijzen map. Daar staat mijn cijferlijst, afwezigheid en screenshots van code in meerdere
 projecten.
+
+# Kwalificatie dossier
+
+### K1
+W1: Opdracht word vastgesteld: Hebben we in vrijwel ieder project gedaan. Hierbij heb je klant gesprek, briefing en projectbeschrijving.
+W2: Komt terug met projectplan, en planning. Bewezen in vorige opdrachten.
+W3: Bewezen in laatste paar projecten, werken in sprints. Project moet functioneel en werkend zijn.
+W4: 

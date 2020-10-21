@@ -9,5 +9,7 @@ lossen we dat samen op.
 ## Is dit verbeterd met vorig jaar?
 
 Ik ga eigenlijk hetzelfde te werk als vorig jaar, alhoewel ik vind dat ik wel verbeterd ben in samenwerking en initiatief
-nemen met samenwerkings opdrachten. 
+nemen met samenwerkings opdrachten.
+
+
 
